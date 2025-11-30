@@ -23,4 +23,5 @@
 23. Bandit24 = gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
 24. Bandit25 = iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 25. Bandit26 = s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
+26. Bandit27 = upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
 
